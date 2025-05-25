@@ -3,7 +3,7 @@ import random
 from datetime import datetime
 
 # --- PAGE CONFIG ---
-st.set_page_config(page_title="Growth Mindset", page_icon="🌱", layout="centered")
+st.set_page_config(page_title="Growth Mindset App", page_icon="🌱", layout="centered")
 
 # --- BACKGROUND COLOR ---
 st.markdown(
